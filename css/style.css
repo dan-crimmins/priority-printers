@@ -28,7 +28,7 @@ body a{
 .logo{
 	float:left;
 	margin-top:1px;
-	max-width: 300px;
+	max-width: 240px;
 }
 
 .menu{
@@ -1514,8 +1514,8 @@ a.banner-btn span {
 }
 
 .logo img {
-	height: 80%;
-	width: 80%;
+	height: 100%;
+	width: 100%;
 }
 
 .header {
