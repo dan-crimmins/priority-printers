@@ -28,7 +28,9 @@ body a{
 .logo{
 	float:left;
 	margin-top:1px;
+	max-width: 300px;
 }
+
 .menu{
 	 float:right;
 }
@@ -1508,7 +1510,14 @@ a.banner-btn span {
 }
 .logo {
 	margin-top: 12px;
+	float: left;
 }
+
+.logo img {
+	height: 80%;
+	width: 80%;
+}
+
 .header {
 	padding: 0.5em 0;
 }
