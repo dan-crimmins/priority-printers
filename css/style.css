@@ -1515,6 +1515,15 @@ a.banner-btn span {
 .banner-info {
 	margin-top: 2em;
 }
+
+.title-section h1 {
+	margin: 0 0 5px 0;
+	line-height: 58px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+}
+
 .logo {
 	margin-top: 12px;
 	float: left;
