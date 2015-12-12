@@ -1389,7 +1389,14 @@ div.list.custom-list ul li h5 a {
 }
 .logo {
 	margin-top: 5px;
+	max-width: 300px;
 }
+
+.logo img {
+	height: 100%;
+	width: 100%;
+}
+
 .feature_grid1 {
 	width: 100%;
 	padding: 4em 0em 0em 0;
@@ -1511,6 +1518,7 @@ a.banner-btn span {
 .logo {
 	margin-top: 12px;
 	float: left;
+	max-width: 245px;
 }
 
 .logo img {
@@ -1582,7 +1590,7 @@ ul.twitter li.twt_desc {
 	margin-top: 1em;
 }
 .content_white p, .footer_head p{
-	font-size: 0.95em;
+	font-size: 1.25em;
 	line-height: 1em;
 	padding:0 10px;
 }
